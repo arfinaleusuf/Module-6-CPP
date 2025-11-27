@@ -8,5 +8,9 @@ int main()
     // {
     //     cout << s[i] << endl;
     // }
+    for(char c:s)
+    {
+        cout << c << endl;
+    }
     return 0;
 }
